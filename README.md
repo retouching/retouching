@@ -3,14 +3,14 @@
     Hi there!
     <img height="32px" src=".github/assets/aquacheer.gif">
   </h1>
-  <p align="center">If you are here to know a little bit more about me, you're in the wrong place. Let's start!</p>
+  <p align="center">If you are here to know a little bit more about me, you're in the right place. Let's start!</p>
 </div>
 
 <br>
 
 ## `👀` Who am I ?
 
-> Hello! I'm  ̷̥̳̗̱̞̽̀̔̚ ̵̧̠̩̈́̾̄ ̷͍̞͂̈́̍̇͌͠ ̸̛̣͌̔̂̎́ ̴͓͖͚́͗͗ ̶͈̦͙͉̟̇͋ ̷͎̭̗̀͗͝ ̵̱͌ ̴͎̣̫̦̓͗̊̄ ̶̪̤͎̔ ̵̧͕́͒̒ ̵̹͇͚͕͙̙͑̓̌̃ ̸̧̡̈ ̷̺̼̂̔͌͆̒̈ ̴̠͙̮͓̙̐͛̈̑͊͒ ̵̤̟̲̗̱̂̊ͅ ̸̹̤̃̃͗̂̿. Mainly website backend developer but I can do other stuffs. Some projects can be found in my [repositories](https://github.com/retouching?tab=repositories) tab.
+> Hello! I'm retouching, mainly website backend developer but I can do other stuffs. Some projects can be found in my [repositories](https://github.com/retouching?tab=repositories) tab.
 
 ## `🛠️` Technologies that I can use
 
@@ -24,26 +24,10 @@
     height="40"
   />
 </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img
-    src=".github/assets/cpp.svg"
-    alt="cplusplus"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img
     src=".github/assets/php.svg"
     alt="php"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img
-    src=".github/assets/java.svg"
-    alt="java"
     width="40"
     height="40"
   />
@@ -134,14 +118,6 @@
   <img
     src=".github/assets/express.svg"
     alt="express"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img
-    src=".github/assets/spring.svg"
-    alt="spring boot"
     width="40"
     height="40"
   />
@@ -256,14 +232,6 @@
     height="40"
   />
 </a>
-<a href="https://deta.space" target="_blank" rel="noreferrer">
-  <img
-    src=".github/assets/deta.svg"
-    alt="deta"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer">
   <img
     src=".github/assets/cfw.svg"
@@ -282,6 +250,4 @@
 
 ## `🍕` Links
 
-- Twitter:  ̷̥̳̗̱̞̽̀̔̚ ̵̧̠̩̈́̾̄ ̷͍̞͂̈́̍̇͌͠ ̸̛̣͌̔̂̎́ ̴͓͖͚́͗͗ ̶͈̦͙͉̟̇͋ ̷͎̭̗̀͗͝ ̵̱͌ ̴͎̣̫̦̓͗̊̄ ̶̪̤͎̔ ̵̧͕́͒̒ ̵̹͇͚͕͙̙͑̓̌̃ ̸̧̡̈ ̷̺̼̂̔͌͆̒̈ ̴̠͙̮͓̙̐͛̈̑͊͒ ̵̤̟̲̗̱̂̊ͅ ̸̹̤̃̃͗̂̿
-- Email:  ̷̥̳̗̱̞̽̀̔̚ ̵̧̠̩̈́̾̄ ̷͍̞͂̈́̍̇͌͠ ̸̛̣͌̔̂̎́ ̴͓͖͚́͗͗ ̶͈̦͙͉̟̇͋ ̷͎̭̗̀͗͝ ̵̱͌ ̴͎̣̫̦̓͗̊̄ ̶̪̤͎̔ ̵̧͕́͒̒ ̵̹͇͚͕͙̙͑̓̌̃ ̸̧̡̈ ̷̺̼̂̔͌͆̒̈ ̴̠͙̮͓̙̐͛̈̑͊͒ ̵̤̟̲̗̱̂̊ͅ ̸̹̤̃̃͗̂̿
-- LinkedIn:  ̷̥̳̗̱̞̽̀̔̚ ̵̧̠̩̈́̾̄ ̷͍̞͂̈́̍̇͌͠ ̸̛̣͌̔̂̎́ ̴͓͖͚́͗͗ ̶͈̦͙͉̟̇͋ ̷͎̭̗̀͗͝ ̵̱͌ ̴͎̣̫̦̓͗̊̄ ̶̪̤͎̔ ̵̧͕́͒̒ ̵̹͇͚͕͙̙͑̓̌̃ ̸̧̡̈ ̷̺̼̂̔͌͆̒̈ ̴̠͙̮͓̙̐͛̈̑͊͒ ̵̤̟̲̗̱̂̊ͅ ̸̹̤̃̃͗̂̿
+- Bento: [bento.me/arch](https://bento.me/arch)
